@@ -45,7 +45,7 @@ Built using **YOLOv9**, **Roboflow**, **OpenCV**, and **Streamlit**, this app al
 
 | Uploaded Video | Tracked Output |
 |--------------|----------------|
-| ![Upload Screenshot](runs/before.png) | ![Output Screenshot](runs/after.png) |
+| ![Upload Screenshot](runs/sample.gif) | ![Output Screenshot](runs/after.png) |
 
 ---
 
