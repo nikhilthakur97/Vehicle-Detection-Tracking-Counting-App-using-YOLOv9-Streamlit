@@ -43,8 +43,6 @@ Built using **YOLOv9**, **Roboflow**, **OpenCV**, and **Streamlit**, this app al
 
 ## 🎬 Sample Output
 
-| Tracked Output |
-|--------------|----------------|
 | ![Sample output](runs/sample.gif) |
 
 ---
@@ -68,7 +66,8 @@ streamlit run app.py
 ## 👨‍💻 About the Author
 
 Built with ❤️ by **Nikhil Thakur**  
-🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-thakur)
+🔗 [LinkedIn](https://www.linkedin.com/in/nikhilthakur97)
+
 
 I'm passionate about solving real-world problems using AI and Computer Vision.  
 This project is part of my portfolio to demonstrate full-stack AI development — from dataset to deployable app.
