@@ -46,6 +46,9 @@ Built using **YOLOv9**, **Roboflow**, **OpenCV**, and **Streamlit**, this app al
 | ![Sample output](runs/sample.gif) |
 
 ---
+| ![Stremlit Interface](runs/Streamlit.mp4) |
+
+---
 
 ## 🚀 How to Run This Project Locally
 
