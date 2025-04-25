@@ -52,7 +52,7 @@ Built using **YOLOv9**, **Roboflow**, **OpenCV**, and **Streamlit**, this app al
 
 ## 📸 Stremlit Output
 
-| ![Stremlit Interface](runs/Streamlit.gif) |
+| ![Streamlit Interface](runs/Streamlit.gif) |
 
 ---
 
