@@ -45,7 +45,7 @@ Built using **YOLOv9**, **Roboflow**, **OpenCV**, and **Streamlit**, this app al
 
 | Upload Video | Tracked Output |
 |--------------|----------------|
-| ![Upload Screenshot](screens/upload.png) | ![Output Screenshot](screens/output.png) |
+| ![Upload Screenshot](runs/vehicle_counted_output.mp4) | ![Output Screenshot](screens/output.png) |
 
 ---
 
@@ -53,7 +53,7 @@ Built using **YOLOv9**, **Roboflow**, **OpenCV**, and **Streamlit**, this app al
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/vehicle-detection-yolov9.git
+git clone https://github.com/nikhilthakur97/Vehicle-Detection-Tracking-Counting-App-using-YOLOv9-Streamlit.git
 cd vehicle-detection-yolov9
 
 # Install dependencies
