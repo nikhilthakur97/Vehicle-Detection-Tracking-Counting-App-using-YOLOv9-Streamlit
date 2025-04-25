@@ -68,7 +68,7 @@ streamlit run app.py
 ## 🎬 Sample Output
 
 Here’s a clip from the app using real traffic footage:  
-📹 [Download `vehicle_counted_output.mp4`](runs/vehicle_counted_output.mp4)
+📹 [Download `vehicle_counted_output.mp4`](runs/sample.gif)
 
 ---
 
