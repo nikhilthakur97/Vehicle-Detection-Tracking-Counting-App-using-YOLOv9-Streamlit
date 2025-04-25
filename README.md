@@ -45,7 +45,7 @@ Built using **YOLOv9**, **Roboflow**, **OpenCV**, and **Streamlit**, this app al
 
 | Upload Video | Tracked Output |
 |--------------|----------------|
-| ![Upload Screenshot](runs/vehicle_counted_output.mp4) | ![Output Screenshot](screens/output.png) |
+| ![Upload Screenshot](runs/before.png) | ![Output Screenshot](screens/after.png) |
 
 ---
 
@@ -68,7 +68,7 @@ streamlit run app.py
 ## 🎬 Sample Output
 
 Here’s a clip from the app using real traffic footage:  
-📹 [Download `vehicle_counted_output.mp4`](vehicle_counted_output.mp4)
+📹 [Download `vehicle_counted_output.mp4`](runs/vehicle_counted_output.mp4)
 
 ---
 
